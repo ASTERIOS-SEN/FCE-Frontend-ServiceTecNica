@@ -2,7 +2,7 @@
   "name": "servicetecnica-nuxt",
   "version": "1.0.0",
   "scripts": {
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --host",
     "build": "nuxt build",
     "start": "nuxt start"
   },
